@@ -1,14 +1,14 @@
 ## Vikas Kaushik 
 
-Knows how to code in C , Python , C++ , Bash , Latex , Scilab , Matlab .
+I know how to code in C , Python , C++ , Bash , Latex , Scilab , Matlab .
 
-Supports Open Source Community and Linux .
+I Support Open Source Community and Linux .
 
-Interested in coding in C and Python 
+I am interested in coding in C and Python 
 
-Currently working on Neural Networking in C and Python , Numerical Solutions to various PDEs in Physics , Making Simulations to visuallize Physics and Maths . 
+I am currently working on Neural Networking in C and Python , Numerical Solutions to various PDEs in Physics , Making Simulations to visuallize Physics and Maths . 
 
-Looking to collaborate on projects related to Neural Networking and Numerical Solutions to various problems .
+I am looking to collaborate on projects related to Neural Networking and Numerical Solutions to various problems .
 
 Email : vikaskaushikkarora@gmail.com 
 
