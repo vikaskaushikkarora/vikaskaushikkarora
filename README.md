@@ -6,7 +6,7 @@ I Support Open Source Community and Linux .
 
 I am interested in coding in C and Python 
 
-I am currently working on Neural Networking in C and Python , Numerical Solutions to various PDEs in Physics , Making Simulations to visuallize Physics and Maths . 
+I am currently working on Neural Networking in C and Python , Numerical Solutions to various PDEs in Physics , Making Simulations to visuallize Physics and Maths  
 
 I am looking to collaborate on projects related to Neural Networking and Numerical Solutions to various problems .
 
