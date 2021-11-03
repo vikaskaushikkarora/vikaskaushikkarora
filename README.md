@@ -1,6 +1,6 @@
 ## Vikas Kaushik 
 
-I know how to code in C , Python , C++ , Shell , Latex , Scilab , Matlab and HTML
+I code in C , Python , C++ , Shell , Latex , Scilab , Matlab and HTML
 
 I Support Open Source Community and Linux 
 
