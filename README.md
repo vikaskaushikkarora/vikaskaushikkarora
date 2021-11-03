@@ -4,7 +4,7 @@ I code in C , Python , C++ , Shell , Latex , Scilab , Matlab and HTML
 
 I Support Open Source Community and Linux 
 
-I am interested in coding in C and Python 
+I am interested to code in C and Python 
 
 I am currently working on Neural Networking in C and Python , Numerical Solutions to various PDEs in Physics , Making Simulations to visuallize Physics and Maths  
 
