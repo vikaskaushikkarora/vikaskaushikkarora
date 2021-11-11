@@ -1,6 +1,6 @@
 ## Vikas Kaushik 
 
-I code in C , Python , C++ , Shell , Latex , Scilab , Matlab and HTML
+I have coded in C , Python , C++ , Shell , Latex , Scilab , Matlab , HTML , ROOT and CMake
 
 I Support Open Source Community and Linux 
 
