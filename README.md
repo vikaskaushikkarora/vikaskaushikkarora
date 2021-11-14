@@ -1,4 +1,4 @@
-## Vikas Kaushik
+# Vikas Kaushik
 
 I have coded in C , Python , C++ , Shell , Latex , Scilab , Matlab , HTML , ROOT and CMake
 
@@ -6,7 +6,15 @@ I Support Open Source Community and Linux
 
 I am interested to code in C and Python 
 
-I am currently working on Neural Networking in C and Python , Numerical Solutions to various PDEs in Physics , Making Simulations to visuallize Physics and making various functions and classes in C to make it more suitable for scientific purposes like Python but faster than it !
+I am currently working on : 
+
+### Neural Networking in C and Python 
+
+### Numerical Solutions to various PDEs in Physics 
+
+### Making Simulations to visuallize Physics and Maths 
+
+### Making various functions and classes in C to make it more suitable for scientific purposes like Python but faster than it !
 
 I am looking to collaborate on projects related to Neural Networking and Numerical Solutions to various problems 
 
