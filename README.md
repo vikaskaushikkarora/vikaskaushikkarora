@@ -1,6 +1,6 @@
 # Vikas Kaushik
 
-I have coded in C , Python , C++ , Shell , Latex , Scilab , Matlab , HTML , ROOT and CMake
+I am familiar with coding in C , Python , C++ , Shell , Latex , Scilab , Matlab , HTML , ROOT and CMake
 
 I Support Open Source Community and Linux 
 
