@@ -2,8 +2,6 @@
 
 I am familiar with coding in C , Python , C++ , Shell , Latex , Scilab , Matlab , HTML , ROOT and CMake
 
-I Support Open Source Community and Linux 
-
 I am interested to code in C and Python 
 
 I am currently working on : 
